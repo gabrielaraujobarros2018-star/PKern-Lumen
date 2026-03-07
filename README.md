@@ -1,7 +1,7 @@
 *pkern discontinued & Repo archived*
 
 # PKern-Lumen
-This repo contains the Legacy and New versions of PKern Used in Lumen OS. PKern was Discontinued in Early February to Replace it with the Linux Kernel. PKern Will Arrive Again but as a Emergency Kernel in Case Linux Kernel breaks.
+This repo contains the Legacy and New versions of PKern Used in early Lumen OS. PKern was Discontinued in Early February to Replace it with the Linux Kernel. PKern Arrived Again but as a Emergency Kernel but was removed in Lumen M2/M3.
 
 ## Characteristics
   1. Part of Early experimental builds from January 11/12 to Early February
